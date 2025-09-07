@@ -8,7 +8,7 @@
 *.pem
 *.key
 .env
-
+*.swp
 # OS / IDE
 .DS_Store
 .vscode/
